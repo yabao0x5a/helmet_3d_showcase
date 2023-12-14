@@ -2,8 +2,7 @@
 
 ## Overview
 
-This application showcases an interactive 3D model of a Futuristic Visor Helmet. Users can scroll through different views of the helmet, which is displayed alongside descriptive text that aligns contextually with the model's orientation. [View the live Futuristic Visor Helmet Showcase](https://pfj787.csb.app/)
-
+This application showcases an interactive 3D model of a Futuristic Visor Helmet. Users can scroll through different views of the helmet, which is displayed alongside descriptive text that aligns contextually with the model's orientation. [View the live Futuristic Visor Helmet Showcase](https://h8hnlr.csb.app/)
 
 ## Tech Stack
 
@@ -11,7 +10,7 @@ This application showcases an interactive 3D model of a Futuristic Visor Helmet.
 - Backend: None, static hosting suitable due to client-side rendering
 - API: None, as there is no server-side interaction
 - Database: None, as there is no data persistence requirement
-- Hosting: Local/[Demo](https://pfj787.csb.app/)
+- Hosting: Local/[Demo](https://h8hnlr.csb.app/)
 
 ## Setup Steps
 
