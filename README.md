@@ -4,6 +4,10 @@
 
 This application showcases an interactive 3D model of a Futuristic Visor Helmet. Users can scroll through different views of the helmet, which is displayed alongside descriptive text that aligns contextually with the model's orientation. [View the live Futuristic Visor Helmet Showcase](https://h8hnlr.csb.app/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yabao0x5a/helmet_3d_showcase/main/thumbnail.png" alt="Thumbnail" />
+</p>
+
 ## Tech Stack
 
 - Frontend: React 18.2.0 with `@react-three/fiber` and `@react-three/drei` for 3D model rendering
